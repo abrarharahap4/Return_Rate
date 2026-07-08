@@ -8,4 +8,5 @@ Dashboard interaktif berbasis PowerBI untuk menganalisis tingkat pengembalian (r
 
 ### Isi Repository
 [AdventureWorks_Sample_Dataset.xlsx](./AdventureWorks_Sample_Dataset.xlsx)
+
 [Ghairandi_Al_Abrar_Assignment_Day_27_Dashboard.pbix](./Ghairandi_Al_Abrar_Assignment_Day_27_Dashboard.pbix)
