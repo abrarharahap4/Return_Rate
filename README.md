@@ -38,7 +38,7 @@ Membangun dashboard yang dapat membantu tim bisnis dan manajemen memahami:
 
 
 ### 📌 Key Insights
-Selama periode yang dianalisis, AdventureWorks mencatat 200 order dengan total 1.163 unit produk terjual, dan dari jumlah itu sebanyak 67 unit dikembalikan pelanggan — setara Return Rate sebesar 5,76%, yang berujung pada estimasi kerugian pendapatan sekitar $45.849.
+Selama periode yang dianalisis, AdventureWorks mencatat 200 order dengan total 1.163 unit produk terjual, dan dari jumlah itu sebanyak 67 unit dikembalikan pelanggan. Setara Return Rate sebesar 5,76%, yang berujung pada estimasi kerugian pendapatan sekitar $45.849.
 
 Yang menarik, kategori Clothing justru punya Return Rate paling tinggi (6,5%) dibanding Bikes (5,8%) dan Accessories (5,2%), padahal volume penjualannya paling kecil di antara ketiganya — artinya rasio returnnya nggak proporsional dengan seberapa banyak produk itu terjual. 
 
