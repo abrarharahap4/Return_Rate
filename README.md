@@ -3,26 +3,26 @@
 <br>
 
 ### 📊 Dashboard Analisis Return Rate Produk E-Commerce Otomotif - AdventureWorks
-Dashboard interaktif berbasis PowerBI untuk menganalisis tingkat pengembalian (return rate) produk pada data penjualan e-commerce AdventureWorks. lengkap dengan estimasi kerugian pendapatan dan profit akibat return.
+An interactive dashboard built with Power BI to analyze product return rates using fictitious e-commerce sales data, including estimation of revenue and profit losses associated with returns.
 
 <img width="1263" height="707" alt="image" src="https://github.com/user-attachments/assets/fdff4a11-90e2-4ef3-b8ab-4912abe458aa" />
 
 
-### 📁 Isi Repository
+### 📁 Repository Contents
 - [AdventureWorks_Sample_Dataset.xlsx](./AdventureWorks_Sample_Dataset.xlsx)
 
 - [Ghairandi_Al_Abrar_Assignment_Day_27_Dashboard.pbix](./Ghairandi_Al_Abrar_Assignment_Day_27_Dashboard.pbix)
 
 
-### 🎯 Tujuan Proyek
-Membangun dashboard yang dapat membantu tim bisnis dan manajemen memahami:
-- Seberapa besar tingkat return produk secara keseluruhan
-- Kategori/sub-kategori produk mana yang paling sering dikembalikan oleh customer
-- Tren jumlah return dari waktu ke waktu
-- Estimasi kerugian pendapatan (revenue) akibat tingkat return 
+### 🎯 Project Goals
+#### Building a dashboard to help the business and management team understand:
+  - Overall product return rates
+  - Which product categories and sub-categories are returned most frequently by customers
+  - Trends in the number of returns over time
+  - Estimate revenue loss caused by product returns
 
 
-### 🧩 Fitur & Visualisasi
+### 🧩 Features & Visualization
   #### Key Metrics (Cards)
   - Total Order (Jumlah order yang terjadi)
   - Total Quantity (terjual)
@@ -32,22 +32,21 @@ Membangun dashboard yang dapat membantu tim bisnis dan manajemen memahami:
 
   #### Visual Utama
   - Pivot Table => Breakdown Return Rate & Estimaed Lost Revenue per Category => Sub-category => Product Name
-  - Line Chart => Tren total Return per tahun & bulan
-  - Bar Chart => Perbandingan Return Rate antar kategori produk
-  - Slicer => Filter interaktif berdasarkan Sub-Category produk
-
+  - Line Chart => Trend of total returns by year and month
+  - Bar Chart => Comparison of Return Rate across product categorie
+  - Slicer => Interactive filter based on product Sub-Category
 
 ### 📌 Key Insights
-Selama periode yang dianalisis, AdventureWorks mencatat 200 order dengan total 1.163 unit produk terjual, dan dari jumlah itu sebanyak 67 unit dikembalikan pelanggan. Setara Return Rate sebesar 5,76%, yang berujung pada estimasi kerugian pendapatan sekitar $45.849.
+During the analyzed period, AdventureWorks recorded 200 orders, with a total of 1,163 units sold. Of these, 67 units were returned by customers. Resulting in a Return Rate of 5.76% and an estimated revenue loss of approximately $45,849.
 
-Yang menariknya, kategori Clothing justru memiliki Return Rate paling tinggi (6,5%) dibanding Bikes (5,8%) dan Accessories (5,2%), padahal volume penjualannya paling kecil di antara ketiganya, artinya rasio returnnya tidak proporsional dengan seberapa banyak produk itu terjual. 
+Interestingly, Clothing had the highest Return Rate at 6.5% compared with 5.8% for Bikes and 5.2% for Accessories. Despite having the lowest sales volume among the three categories, this suggests that the return rate was disproportionate to the number of products sold.
 
-Tren return juga sempat melonjak tajam di April–Mei 2024, dengan jumlah return dua kali lipat lebih tinggi dibanding bulan-bulan lain, dan kontributor kerugian terbesar datang dari dua produk spesifik, WindCutter S dan Ridge Runner 350, yang bersama-sama menyumbang lebih dari $16.000 lost revenue. 
+Returns also spiked significantly in April–May 2024, with more than twice as many returns compared to other months. The largest contributors to lost revenue were two specific products, WindCutter S and Ridge Runner 350, which together accounted for more than $16,000 in lost revenue.
 
-Temuan ini mengarah ke rekomendasi untuk mengaudit kualitas produk di kategori Clothing meski volumenya kecil, menelusuri lebih lanjut apa yang terjadi pada WindCutter S dan Ridge Runner 350, serta mengecek apakah ada masalah batch produksi atau kualitas yang muncul spesifik di periode April–Mei 2024.
+These findings suggest several areas for further investigation: auditing product quality within the Clothing category despite its relatively low sales volume, investigating the return patterns of WindCutter S and Ridge Runner 350, and checking whether any production batch or quality issues were specific to the April–May 2024 period.
 
 ### 🗂️ Sumber Data
-Dataset menggunakan AdventureWorks Sample Dataset (data publik) yang berisi tabel Sales, Products, dan Returns yang saling berelasi.
+The dataset uses the AdventureWorks Sample Dataset (publicly available data that can be downloaded from Kaggle), which contains related Sales, Products, and Returns tables.
 
 
 
