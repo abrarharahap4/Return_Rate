@@ -24,11 +24,11 @@ An interactive dashboard built with Power BI to analyze product return rates usi
 
 ### 🧩 Features & Visualization
   #### Key Metrics (Cards)
-  - Total Order (Jumlah order yang terjadi)
-  - Total Quantity (terjual)
-  - Total Return Quantity (jumlah yang dikembalikan)
+  - Total Order (Sum of orders made by customers)
+  - Total Quantity (Sum of products sold to customers)
+  - Total Return Quantity (Sum of the products returned by the customers)
   - Return Rate (%)
-  - Estimated Lost Profit
+  - Estimated Lost Profit 
 
   #### Visual Utama
   - Pivot Table => Breakdown Return Rate & Estimaed Lost Revenue per Category => Sub-category => Product Name
