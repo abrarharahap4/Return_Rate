@@ -2,7 +2,7 @@
 ## Dibimbing.id (Assignment Day 30)
 <br>
 
-### 📊 Dashboard Analisis Return Rate Produk E-Commerce Otomotif - AdventureWorks
+### 📊 Automotive E-Commerce Product Return Rate Analysis - AdventureWork
 An interactive dashboard built with Power BI to analyze product return rates using fictitious e-commerce sales data, including estimation of revenue and profit losses associated with returns.
 
 <img width="1263" height="707" alt="image" src="https://github.com/user-attachments/assets/fdff4a11-90e2-4ef3-b8ab-4912abe458aa" />
